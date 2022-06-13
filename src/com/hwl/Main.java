@@ -9,6 +9,7 @@ public class Main {
     public static void main(String[] args) {
         int[] arr = new int[]{1, 8, 3, 88, 2, 9, 6};
         System.out.println("hello, git");
+        System.out.println("hot-fix");
         quickSortByLoop(arr);
         for (int num : arr) {
             System.out.println(num);
